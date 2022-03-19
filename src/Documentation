@@ -1,0 +1,24 @@
+Just a Clicker Game
+
+-  Empty plates below
+-  A number of points in the top center. It doesn't decrease and can be saved using blockchain, so that it won't disappear if you delete the game. It doesn't have an upper limit and can increase forever
+-  There are different plates in the game. When they are placed in the empty plate slots and you click them, something happens depending on what plate it is
+-  At the start of the game you have one plate with a name +1 (∞) 0 which can be used ∞ times and adds 1 to your score with each click. When sold it gives 0 score in exchange
+-  The screen can be locked so that you could click anywhere to activate the selected plate
+-  Strong defense against auto-clickers. If the clicks are happening too fast or in one place, the program detects it
+-  When you reach a milestone, such as 100 points, a beautiful screen effect is played and your rewards appear as items near the score number. These rewards can be new plates
+-  With each click you have a small chance of getting a new plate
+-  You can sell plates in exchange for the amount of points written on them. If you sell every plate you have, the game will grant you with the free +1 plate automatically
+-  Types of plates:
+    *  Simple plates - Adding plates, Multiplying plates. +1, +5, +10, *5, *10
+    *  Miserable chance plates - Always have plates which are extremely powerful but have a miserable chance of dropping. [*100000000000 ()]
+    *  Temporary plates - They have limited number of clicks. [*10 (5) -], [*1000 (1) -]
+    *  Negative plates - Because why not. -1, -100, -10000
+    *  Rarity plates - Usual plates but with different rarities which drop more rarely: Iron, Emerald, Golden. Should be much less dull than usual ones. When sold give more points than those without rarity. [GOLDEN +100 (∞) 10000]
+    *  Event plates - Piano tiles (The plates turn into piano keys)
+    *  Random plates - Plates with a die drawn on them. When used, something random happens
+    *  Educational plates - To complete them, you need to learn things from school syllabus: Chemistry plate/Physics plate
+    *  Auto plates - Automatically produce certain amount of points per second. Can be temporary. [+1/sec (1000) -]
+
+-  The game can have some deeper meanings/smart quotes/philosophy/lore about the matter of life inside
+-  In the settings you can turn on the language name display of you score number (five quintillion quadrillion five million four hundred twenty)
